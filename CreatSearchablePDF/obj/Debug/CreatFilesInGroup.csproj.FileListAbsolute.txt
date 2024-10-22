@@ -1,0 +1,9 @@
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\bin\Debug\CreatFilesInGroup.exe.config
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\bin\Debug\CreatFilesInGroup.exe
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\bin\Debug\CreatFilesInGroup.pdb
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.csprojResolveAssemblyReference.cache
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.Form1.resources
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.Properties.Resources.resources
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.csproj.GenerateResource.Cache
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.exe
+D:\SOFTHAVESETUP\WorkSpace\CreatFilesInGroup\CreatFilesInGroup\obj\Debug\CreatFilesInGroup.pdb

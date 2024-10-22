@@ -1,0 +1,9 @@
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\obj\Debug\PDFTestDBUtility.csprojResolveAssemblyReference.cache
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\PDFTestDBUtility.dll
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\PDFTestDBUtility.pdb
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\Donet.Utility.dll
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\MySql.Data.dll
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\System.Data.SQLite.dll
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\bin\Debug\Donet.Utility.pdb
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\obj\Debug\PDFTestDBUtility.dll
+F:\VSWorkspace\PDFTest\PDFTestProject\PDFTestDBUtility\obj\Debug\PDFTestDBUtility.pdb
